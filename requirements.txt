@@ -1,0 +1,9 @@
+cloudevents==1.10.1
+firebase-admin==7.1.0
+firebase-functions==0.5.0
+google-cloud-tasks==2.21.0
+google-cloud-storage==3.9.0
+google-generativeai==0.8.6
+urllib3==2.6.3
+# Explicitly pin crc32c to stop the compilation loop
+google-crc32c==1.8.0
